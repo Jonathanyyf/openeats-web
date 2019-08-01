@@ -56,6 +56,7 @@
   "filter.hide_filters": "Cacher les Filtres",
   "filter.filter_ordering": "Classer",
   "file_widget.help_block": "Merci de mettre une photo de la recette terminée !",
+  "file_widget.note": "Note: photo maximum 500ko",
   "select_widget.header": "Merci de sélectionner {label}",
   "widget_error.title": "Erreur de formulaire !",
   "widget_error.message": "Merci de vérifier que toutes les données sont présentes.",
